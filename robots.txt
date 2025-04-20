@@ -1,0 +1,4 @@
+```txt
+User-agent: *
+Disallow:
+Sitemap: https://mrgaurav.me/sitemap.xml
